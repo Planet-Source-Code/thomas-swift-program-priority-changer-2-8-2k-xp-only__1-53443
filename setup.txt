@@ -1,0 +1,11 @@
+Explorer.EXE*Normal*Above Normal
+ashDisp.exe*Normal*Above Normal
+ashmaisv.exe*Normal*Above Normal
+NeoWatchTray.exe*Normal*Above Normal
+adsub.exe*Normal*Above Normal
+PDExplo.exe*Normal*Above Normal
+priority.exe*Normal*Idle
+psp.exe*Normal*High
+Ares.exe*Normal*High
+rasautou.exe*Normal*High
+VB6.EXE*Normal*Above Normal

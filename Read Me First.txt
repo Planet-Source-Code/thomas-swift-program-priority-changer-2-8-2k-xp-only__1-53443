@@ -1,0 +1,1 @@
+Needs:PSAPI.dll to be installed to c:\windows\system32 directory.
